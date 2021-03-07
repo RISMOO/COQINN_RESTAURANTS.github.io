@@ -123,3 +123,20 @@ img.guip:hover
     -webkit-transform: scale(1.3);
 	transform: scale(1.3);
 }
+#menu
+
+{
+   
+    -webkit-transform: scale(1.25);
+	transform: scale(1.25);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+#menu:hover
+
+{
+    -webkit-transform: scale(1);
+	transform: scale(1);
+  
+}
